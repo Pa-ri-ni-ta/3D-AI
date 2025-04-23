@@ -4,7 +4,7 @@ import time
 import os
 
 # Set up Gemini - replace with your actual API key
-genai.configure(api_key="AIzaSyCK-fM_4Ep5MGOCBtk7XLl8dXYAz2M0kYw")
+genai.configure(api_key="####")
 
 def text_to_3d(prompt):
     if not prompt.strip():
