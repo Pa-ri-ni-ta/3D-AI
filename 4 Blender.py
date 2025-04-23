@@ -5,7 +5,7 @@ import os
 import subprocess
 
 # Set up Gemini API Key (Recommended: use environment variable in production)
-genai.configure(api_key="AIzaSyCK-fM_4Ep5MGOCBtk7XLl8dXYAz2M0kYw")
+genai.configure(api_key="####")
 
 def expand_concept(raw_prompt):
     try:
