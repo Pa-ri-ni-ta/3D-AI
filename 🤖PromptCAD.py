@@ -5,7 +5,7 @@ import os
 import subprocess
 
 # Set up Gemini API Key
-genai.configure(api_key="AIzaSyANd4ewoF49WipY4_nOM3cnzUmEa_zmWxE")  # Replace with your actual Gemini key
+genai.configure(api_key="####")  # Replace with your actual Gemini key
 
 # --- FLAT CONCEPT CATALOG ---
 concept_catalog = {
